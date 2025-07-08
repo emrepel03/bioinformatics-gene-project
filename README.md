@@ -43,7 +43,10 @@ This project was developed as part of the *Bioinformatics and Network Medicine* 
 
 1. Open the Jupyter notebook (`BINM_HW.ipynb`).
 2. Follow the steps in order — datasets are loaded from CSVs or API calls.
-3. You may need to install some Python packages: `pip install -r requirements.txt` (if available).
+3. To run the Jupyter Notebook, install the required Python packages:
+
+```bash
+pip install -r requirements.txt
 
 ## 📜 License
 
